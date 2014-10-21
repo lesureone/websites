@@ -1,0 +1,125 @@
+.home_bg  {
+    background: url(images/Nike_Air_Max_95_OG_-_Neon_Sneaker_Politics_4_1024x1024.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.contact_bg  {
+    background: url(images/Nike_Lunar_Flynit_Chukka_FSB_1.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.about_bg  {
+    background: url(images/Air_Jordan_11_Retro_Low_Infrared_23_Sneaker_Politics_3_1024x1024.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.signup_bg  {
+    background: url(images/Nike_Lebron_11_Elite_Sneaker_Politics_3_1024x1024.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.directory_bg  {
+    background: url(images/Nike_KD_VI_What_the_KD_Sneaker_Politics_14_1024x1024.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.nav  {
+    color: #FFFFFF;
+    font-size: 14px;
+    text-decoration: none;
+    float: right;
+    margin: auto;
+    margin-right: 50px;
+    list-style: none;
+}
+
+#logo  {
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    float: left;
+    margin: auto;
+    margin-left: 50px;
+    margin-top: 0px;
+}
+    
+#home  {
+    display: inline;
+    padding: 15px;
+    margin: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#about  {
+    display: inline;
+    padding: 15px;
+    margin: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#contact  {
+    display: inline;
+    padding: 15px;
+    margin: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#faq  {
+    display: inline;
+    padding: 15px;
+    margin: left;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#listing  {
+    display: inline;
+    padding: 15px;
+    margin: left;
+}
+
+#signup {
+    display: inline;
+    background-color: #E62E00;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+}
+
+#discover {
+    background-color: #E62E00;
+    color: #FFFFFF;
+    width: 150px;
+    height: 40px;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    border: none;
+}
+
+.search_box  {
+    color: #FFFFFF; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 195px;
+    margin-left: 95px;
+    z-index: -1;    
+}
+.content  {
+    color: #FFFFFF; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 195px;
+    margin-left: 150px;
+    z-index: -1;    
+}
+
+#search-input  {
+    width: 350px;
+    font-size: 17px;
+    height: 34px;
+    font-style: italic;
+}
+
+
